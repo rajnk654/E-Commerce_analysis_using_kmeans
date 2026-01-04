@@ -1,5 +1,5 @@
 
-# E-Commerce Customer Segmentation using K-Means
+# E-Commerce Customer Analysis using K-Means
 
 ## 📌 Project Overview
 This project analyzes e-commerce customer data to **segment customers** using the **K-Means clustering algorithm**.  
